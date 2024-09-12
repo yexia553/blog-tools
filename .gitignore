@@ -1,0 +1,15 @@
+.vscode/
+venv/
+/**/__pycache__/
+/**/.mypy_cache/
+markdown2wechat/origi.html
+markdown2wechat/result.html
+markdown2wechat/blog-source
+markdown2wechat/code2img
+markdown2wechat/cache.txt
+markdown2wechat/*.log
+markdown2wechat/update.sh
+markdown2wechat/cache.bin
+markdown2wechat/ob
+markdown2wechat/ob-pub
+markdown2wechat/node_modules
